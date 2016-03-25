@@ -11,12 +11,13 @@ End Time:
 
 [P=Present, A=Absent]
 
-1. [P/A] Daniel Jackson
-2. [P/A] Alejandro Pena
-3. [P/A] Aaron Williams
-4. [P/A] Joel Lopez-Sosa
-5. [P/A] Walter Nugent
-6. [P/A] Scott Kennedy
+1. [P/A] Jeffrey Staunton
+2. [P/A] Daniel Jackson
+3. [P/A] Alejandro Pena
+4. [P/A] Aaron Williams
+5. [P/A] Joel Lopez-Sosa
+6. [P/A] Walter Nugent
+7. [P/A] Scott Kennedy
 
 **Minutes to be prepared by:** 
 
